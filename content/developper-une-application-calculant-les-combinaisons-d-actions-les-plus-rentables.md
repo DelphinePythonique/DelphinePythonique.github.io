@@ -9,11 +9,9 @@ Category: Certification Développeur Python
 extrayant les combinaisons d'actions à acheter permettant le meilleur rendement pour un coût total défini.
 
 # Compétences évaluées
-- Configurer un environnement Python
-- Appliquer les bases de la programmation en Python
-- Utiliser le contrôle de version avec Git et GitHub
-- Gérer les données à l'aide du processus ETL
+- Déconstruire un problème
+- Développer un algorithme pour résoudre un problème
 
 # Dépôt du programme
-[dépôt de ce projet](https://github.com/DelphinePythonique/projet2)
+[dépôt de ce projet](https://github.com/DelphinePythonique/projet7)
 

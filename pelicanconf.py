@@ -31,6 +31,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+DELETE_OUTPUT_DIRECTORY = True
+
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DISPLAY_PAGES_ON_MENU = False

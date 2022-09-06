@@ -10,3 +10,4 @@ Ci-dessous la liste des projets réalisés:
 - [Usage de python pour une analyse de marché](usage-de-python-pour-une-analyse-de-marche.html)
 - [Designer une application de mise en relation de tuteurs et d'élèves pour du soutien scolaire à distance. ](designer-une-application-de_mise_en_relation-de-tuteurs-et-d-eleves-pour du soutien scolaire.html)
 - [Développer une application de gestion de tournois d'échec en mode console. ](developper-une-application-de-gestion-de-tournois-dechecs.html)
+- [Développer une application de classement de films ](developper-une-application-de-classement-de-films.html)
