@@ -15,5 +15,5 @@ extrayant les combinaisons d'actions à acheter permettant le meilleur rendement
 - Gérer les données à l'aide du processus ETL
 
 # Dépôt du programme
-[dépôt](https://github.com/DelphinePythonique/projet2)
+[dépôt de ce projet](https://github.com/DelphinePythonique/projet2)
 
