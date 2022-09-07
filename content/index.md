@@ -7,8 +7,8 @@ Voici la page d'accueil de mon portfolio.
 
 Ci-dessous la liste des projets réalisés: 
 
-- [Développer une application d'analyse de marché](developper-une-application-d-analyse-de-marche.html)
-- [Designer une application de mise en relation de tuteurs et d'élèves pour du soutien scolaire à distance. ](designer-une-application-de-mise-en-relation-de-tuteurs-et-d-eleves-pour-du-soutien-scolaire.html)
-- [Développer une application de gestion de tournois d'échec en mode console. ](developper-une-application-de-gestion-de-tournois-dechecs.html)
-- [Développer une application de classement de films ](developper-une-application-de-classement-de-films.html)
-- [Développer une application calculant les combinaisons d'action les plus rentables](developper-une-application-calculant-les-combinaisons-d-actions-les-plus-rentables.html)
+- [Développer une application d'analyse de marché]({filename}developper-une-application-d-analyse-de-marche.md)
+- [Designer une application de mise en relation de tuteurs et d'élèves pour du soutien scolaire à distance. ]({filename}designer-une-application-de-mise-en-relation-de-tuteurs-et-d-eleves-pour-du-soutien-scolaire.md)
+- [Développer une application de gestion de tournois d'échec en mode console. ]({filename}developper-une-application-gerant-des-tournois-d-echecs.md)
+- [Développer une application de classement de films ]({filename}developper-une-application-de-classement-de-films.md)
+- [Développer une application calculant les combinaisons d'action les plus rentables]({filename}developper-une-application-calculant-les-combinaisons-d-actions-les-plus-rentables.md)
