@@ -12,3 +12,4 @@ Ci-dessous la liste des projets réalisés:
 - [Développer une application de gestion de tournois d'échec en mode console. ]({filename}developper-une-application-gerant-des-tournois-d-echecs.md)
 - [Développer une application de classement de films ]({filename}developper-une-application-de-classement-de-films.md)
 - [Développer une application calculant les combinaisons d'action les plus rentables]({filename}developper-une-application-calculant-les-combinaisons-d-actions-les-plus-rentables.md)
+- [Développer une application de partage de critique de livres]({filename}developper-une-application-de-partage-de-critiques-de-livres.md)
