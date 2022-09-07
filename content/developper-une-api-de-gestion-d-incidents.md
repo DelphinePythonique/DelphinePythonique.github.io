@@ -1,7 +1,7 @@
 Title: Développer une api de gestion d'incident
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-
+tags: api, django
 
 # Présentation du projet
 

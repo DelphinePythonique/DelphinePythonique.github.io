@@ -1,7 +1,7 @@
 Title: Développer une application de gestion de tournois d'échecs
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-
+tags: MVC, console
 
 # Présentation du projet
 

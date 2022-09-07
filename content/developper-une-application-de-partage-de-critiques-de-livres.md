@@ -1,7 +1,7 @@
 Title: Développer une application de partage de critiques de livres
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-
+tags: front, api, djando
 
 # Présentation du projet
 

@@ -1,12 +1,12 @@
 Title: Designer une application de mise en relation de tuteurs et d'élèves pour du soutien scolaire à distance. 
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-
+tags: design, maquette, cas d'usage, 
 
 # Présentation du projet
 
 A partir d'une liste de fonctionnalités en lien avec la mise en relation de tuteur et d'élève et des activités 
-de formation, décliner les livrables décrivant le projet; cas d'usage, user stories et maquettes
+de formation, décliner les livrables décrivant le projet; cas d'usage, maquettes
 
 # Compétences évaluées
 

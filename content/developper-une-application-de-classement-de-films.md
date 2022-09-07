@@ -1,7 +1,7 @@
 Title: Développer une application de classement de film
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-
+tags: asynchrone, scss, front
 
 # Présentation du projet
 

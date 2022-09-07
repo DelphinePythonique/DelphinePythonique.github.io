@@ -1,7 +1,7 @@
 Title: Développer une application d'analyse de marché
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-
+tags: scrapping, DOM, Beautiful Soup, request
 
 # Présentation du projet
 
