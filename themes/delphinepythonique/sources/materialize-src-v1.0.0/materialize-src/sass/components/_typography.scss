@@ -5,7 +5,7 @@ a {
 
 html{
   line-height: 1.5;
-
+/*
   @media only screen and (min-width: 0) {
     font-size: 14px;
   }
@@ -17,7 +17,18 @@ html{
   @media only screen and (min-width: $large-screen) {
     font-size: 15px;
   }
+*/
+    @media only screen and (min-width: 0) {
+    font-size: 1.2rem;
+  }
 
+  @media only screen and (min-width: $medium-screen) {
+    font-size: 1.2rem;
+  }
+
+  @media only screen and (min-width: $large-screen) {
+    font-size: 1.2rem;
+  }
   font-family: $font-stack;
   font-weight: normal;
   color: $off-black;
