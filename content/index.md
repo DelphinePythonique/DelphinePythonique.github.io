@@ -3,9 +3,7 @@ Date: 2022-09-06 10:20
 Category: Accueil
 save_as: accueil.html
 
-Voici la page d'accueil de mon portfolio.
-
-Ci-dessous la liste des projets réalisés: 
+Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplômante Openclassroom **développeur python**: 
 
 - [Développer une application d'analyse de marché]({filename}developper-une-application-d-analyse-de-marche.md)
 - [Designer une application de mise en relation de tuteurs et d'élèves pour du soutien scolaire à distance. ]({filename}designer-une-application-de-mise-en-relation-de-tuteurs-et-d-eleves-pour-du-soutien-scolaire.md)

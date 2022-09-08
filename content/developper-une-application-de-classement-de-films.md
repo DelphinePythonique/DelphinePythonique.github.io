@@ -3,11 +3,11 @@ Date: 2022-09-06 10:20
 Category: Certification Développeur Python
 tags: asynchrone, scss, front
 
-# Présentation du projet
+## Présentation du projet
 
 Le projet a pour objectif de développer une application de classement de films alimentés au travers d'une api.
 
-# Fonctionnalités
+## Fonctionnalités
 
  - Afficher le meilleur film
  - Afficher les meilleurs films

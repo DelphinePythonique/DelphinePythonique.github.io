@@ -3,11 +3,11 @@ Date: 2022-09-06 10:20
 Category: Certification Développeur Python
 tags: api, django
 
-# Présentation du projet
+## Présentation du projet
 
 Le projet a pour objectif de développer une api de gestion d'incidents. 
 
-# Fonctionnalités
+## Fonctionnalités
 
 - l'api est accessible uniquement à une personne **authentifiée**.
 - créer un projet
@@ -16,12 +16,12 @@ Le projet a pour objectif de développer une api de gestion d'incidents.
 - Commenter un incident en étant membre de l'équipe.
 
 
-# Compétences évaluées
+## Compétences évaluées
 
 - Créer une API RESTful avec Django REST
 - Sécuriser une API afin qu'elle respecte les normes OWASP et RGPD
 - Documenter une application
 
-# Dépôt du programme
+## Dépôt du programme
 [dépôt de ce projet](https://github.com/DelphinePythonique/projet10)
 

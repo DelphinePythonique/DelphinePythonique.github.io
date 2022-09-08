@@ -3,11 +3,11 @@ Date: 2022-09-06 10:20
 Category: Certification Développeur Python
 tags: front, api, djando
 
-# Présentation du projet
+## Présentation du projet
 
 Le projet a pour objectif de développer une application permettant à des internautes de donner ou solliciter des avis 
 sur des livres
-# Fonctionnalités
+## Fonctionnalités
 
 - Demander un avis sur un livre
 - Donner un avis sur un livre
@@ -15,11 +15,11 @@ sur des livres
 
 ![image](images/application-de-critiques-de-livres.gif)
 
-# Compétences évaluées
+## Compétences évaluées
 
 - Développer une application web en utilisant Django
 - Utiliser le rendu côté serveur dans Django
 
-# Dépôt du programme
+## Dépôt du programme
 [dépôt de ce projet](https://github.com/DelphinePythonique/projet9)
 

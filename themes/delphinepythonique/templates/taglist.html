@@ -1,0 +1,2 @@
+{% if article.tags %}<p>tags: {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">
+    <span class="chip">{{ tag | escape }}</span></a> {% endfor %}</p>{% endif %}

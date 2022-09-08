@@ -1,4 +1,5 @@
 AUTHOR = 'DelphinePythonique'
+AUTHOR_FUNCTION = 'Développeuse et intégratrice de solution python'
 SITENAME = 'DelphinePythonique'
 SITEURL = ''
 
@@ -26,7 +27,7 @@ SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/delphine-lemire/'),
           ('Github', 'https://github.com/DelphinePythonique'),
          )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 2
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -36,3 +37,5 @@ DELETE_OUTPUT_DIRECTORY = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DISPLAY_PAGES_ON_MENU = False
+
+THEME = "themes/delphinepythonique"
