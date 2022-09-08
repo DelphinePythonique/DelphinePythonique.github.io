@@ -1,7 +1,9 @@
 Title: Usage de python pour une analyse de marché
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-tags: algorithme, complexité
+tags: algorithme, complexité, python
+summary: À partir d'un fichier texte contenant une liste d'actions ayant un coût et une rentabilité, créer un programme 
+extrayant les combinaisons d'actions à acheter permettant le meilleur rendement pour un coût total défini.
 
 ## Présentation du projet
 

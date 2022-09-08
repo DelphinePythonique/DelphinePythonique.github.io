@@ -1,7 +1,7 @@
 .brand-logo img{
   height:  $navbar-height - 5px;
 }
-	#extras div[class='social'] a {
+	div[class='social'] a {
 		background-repeat: no-repeat;
 		background-position: 3px 6px;
 		padding-left: 25px;
@@ -34,3 +34,6 @@
 		.social a[href*='vimeo.com'] {background-image: url('../images/icons/vimeo.png'); font-size:1.3rem;}
 		.social a[href*='youtube.com'] {background-image: url('../images/icons/youtube.png'); font-size:1.3rem;}
 
+article, article div{
+	padding: 1rem;
+}

@@ -1,7 +1,9 @@
 Title: Développer une application de partage de critiques de livres
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-tags: front, api, djando
+tags: front, api, django, python, materializecss, scss
+summary: Le projet a pour objectif de développer une application permettant à des internautes de donner ou solliciter des avis 
+sur des livres
 
 ## Présentation du projet
 

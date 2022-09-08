@@ -8122,7 +8122,7 @@ input[type=range]::-ms-thumb {
   height: 59px;
 }
 
-#extras div[class=social] a {
+div[class=social] a {
   background-repeat: no-repeat;
   background-position: 3px 6px;
   padding-left: 25px;
@@ -8230,6 +8230,10 @@ input[type=range]::-ms-thumb {
 .social a[href*="youtube.com"] {
   background-image: url("../images/icons/youtube.png");
   font-size: 1.3rem;
+}
+
+article, article div {
+  padding: 1rem;
 }
 
 /*# sourceMappingURL=main.css.map */

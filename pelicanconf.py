@@ -27,7 +27,7 @@ SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/delphine-lemire/'),
           ('Github', 'https://github.com/DelphinePythonique'),
          )
 
-DEFAULT_PAGINATION = 2
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

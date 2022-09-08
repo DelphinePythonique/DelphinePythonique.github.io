@@ -1,7 +1,8 @@
 Title: Développer une application d'analyse de marché
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
-tags: scrapping, DOM, Beautiful Soup, request
+tags: scrapping, DOM, Beautiful Soup, request, python
+summary: Ce projet a pour objectif de récupérer des informations présentes sur un site web de type catalogue de livres.
 
 ## Présentation du projet
 
