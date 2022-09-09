@@ -3315,6 +3315,9 @@ table span.badge {
   .container {
     width: 70%;
   }
+  article{
+    padding:0.2rem;
+  }
 }
 .col .row {
   margin-left: -0.75rem;
@@ -8234,6 +8237,14 @@ div[class=social] a {
 
 article, article div {
   padding: 1rem;
+}
+
+@media only screen and (max-width : 600px) {
+  .container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100%;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
