@@ -92,24 +92,31 @@
         <footer id="contentinfo" class="page-footer">
             <div class="container">
                 <div class="row">
-                    <div class="col s12">
-                                {% if FEED_ALL_ATOM %}
-                                    <li><a href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate">atom feed</a></li>
-                                    {% endif %}
-                                    {% if FEED_ALL_RSS %}
-                                    <li><a href="{{ FEED_DOMAIN }}/{% if FEED_ALL_RSS_URL %}{{ FEED_ALL_RSS_URL }}{% else %}{{ FEED_ALL_RSS }}{% endif %}" type="application/rss+xml" rel="alternate">rss feed</a></li>
-                                    {% endif %}
-                         {% if LINKS %}
-                        <div class="blogroll">
-                                <h2>{{ LINKS_WIDGET_NAME | default('links') }}</h2>
-                                <ul>
+                    <div class="col m6 s12">
+                           <ul class="collection">
 
-                                {% for name, link in LINKS %}
-                                    <li><a href="{{ link }}">{{ name }}</a></li>
-                                {% endfor %}
-                                </ul>
-                        </div><!-- /.blogroll -->
-                    {% endif %}
+                                {% if LINKS %}
+                                     {% for name, link in LINKS %}
+                                        <li class="collection-item"><a href="{{ link }}">{{ name }}</a></li>
+                                    {% endfor %}
+                                {% endif %}
+
+                                 </ul>
+                         </div>
+                    <div class="col m6 s12">
+                           <ul class="collection">
+                                {% if FEED_ALL_ATOM %}
+                                    <li class="collection-item"><a href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate">Flux atom</a></li>
+                                {% endif %}
+                                {% if FEED_ALL_RSS %}
+                                    <li class="collection-item"><a href="{{ FEED_DOMAIN }}/{% if FEED_ALL_RSS_URL %}{{ FEED_ALL_RSS_URL }}{% else %}{{ FEED_ALL_RSS }}{% endif %}" type="application/rss+xml" rel="alternate">Flux rss</a></li>
+                                {% endif %}
+
+                                 </ul>
+                         </div>
+                   </div>
+                   <div class="row">
+                    <div class="col m12 s12">
                     <address id="about" class="vcard body">
                         Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
                     </address><!-- /#about -->

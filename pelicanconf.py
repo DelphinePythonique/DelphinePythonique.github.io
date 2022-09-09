@@ -18,6 +18,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
+        ('Python', 'https://www.python.org/'),
+        ('Pypi', 'https://pypi.org/'),
         ('Tryton', 'https://www.tryton.org/'),
         ('Forum Tryton', 'https://discuss.tryton.org/'),
       )
