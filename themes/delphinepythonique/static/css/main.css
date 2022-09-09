@@ -3315,9 +3315,6 @@ table span.badge {
   .container {
     width: 70%;
   }
-  article{
-    padding:0.2rem;
-  }
 }
 .col .row {
   margin-left: -0.75rem;
@@ -8244,6 +8241,50 @@ article, article div {
     margin: 0 auto;
     max-width: 1280px;
     width: 100%;
+  }
+
+  /*
+  $h1-fontsize: 2.92rem !default;
+  $h2-fontsize: 2.28rem !default;
+  $h3-fontsize: 1.64rem !default;
+  $h4-fontsize: 1.15rem !default;
+  $h5-fontsize: 1.00rem !default;
+  $h6-fontsize: 0.80rem !default;
+  */
+  h1 {
+    font-size: 2.28rem;
+    line-height: 110%;
+    margin: 2.3733333333rem 0 1.424rem 0;
+  }
+
+  h2 {
+    font-size: 1.64rem;
+    line-height: 110%;
+    margin: 1.9466666667rem 0 1.168rem 0;
+  }
+
+  h3 {
+    font-size: 1.15rem;
+    line-height: 110%;
+    margin: 1.52rem 0 0.912rem 0;
+  }
+
+  h4 {
+    font-size: 1rem;
+    line-height: 110%;
+    margin: 1.0933333333rem 0 0.656rem 0;
+  }
+
+  h5 {
+    font-size: 0.8rem;
+    line-height: 110%;
+    margin: 0.7666666667rem 0 0.46rem 0;
+  }
+
+  h6 {
+    font-size: 0.75rem;
+    line-height: 110%;
+    margin: 0.6666666667rem 0 0.4rem 0;
   }
 }
 
