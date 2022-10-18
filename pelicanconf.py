@@ -1,5 +1,6 @@
 AUTHOR = 'DelphinePythonique'
 AUTHOR_FUNCTION = 'Développeuse et intégratrice de solution python'
+CV_URL = "images/CV.pdf"
 SITENAME = 'DelphinePythonique'
 SITEURL = ''
 
