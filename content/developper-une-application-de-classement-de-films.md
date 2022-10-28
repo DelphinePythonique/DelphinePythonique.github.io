@@ -24,5 +24,5 @@ Le projet a pour objectif de développer une application de classement de films 
 - Interagir avec une API REST
 
 # Dépôt du programme
-[dépôt de ce projet](https://github.com/DelphinePythonique/projet6)
+[lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet6)
 

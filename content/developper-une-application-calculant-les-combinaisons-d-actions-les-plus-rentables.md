@@ -15,5 +15,5 @@ extrayant les combinaisons d'actions à acheter permettant le meilleur rendement
 - Développer un algorithme pour résoudre un problème
 
 ## Dépôt du programme
-[dépôt de ce projet](https://github.com/DelphinePythonique/projet7)
+[Lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet7)
 

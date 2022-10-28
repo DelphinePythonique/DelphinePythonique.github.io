@@ -23,5 +23,5 @@ sur des livres
 - Utiliser le rendu côté serveur dans Django
 
 ## Dépôt du programme
-[dépôt de ce projet](https://github.com/DelphinePythonique/projet9)
+[lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet9)
 

@@ -15,5 +15,5 @@ Ce projet a pour objectif de récupérer des informations présentes sur un site
 - Gérer les données à l'aide du processus ETL
 
 ## Dépôt du programme
-[dépôt de ce projet](https://github.com/DelphinePythonique/projet2)
+[Lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet2)
 

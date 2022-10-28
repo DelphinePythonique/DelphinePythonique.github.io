@@ -25,5 +25,5 @@ Il sera alors possible de mémoriser le résultat des matchs.
 - Structurer le code d'un programme Python en utilisant un design pattern
 
 ## Dépôt du programme
-[dépôt de ce projet](https://github.com/DelphinePythonique/projet4)
+[lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet4)
 

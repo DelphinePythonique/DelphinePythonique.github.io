@@ -24,5 +24,5 @@ Le projet a pour objectif de développer une api de gestion d'incidents.
 - Documenter une application
 
 ## Dépôt du programme
-[dépôt de ce projet](https://github.com/DelphinePythonique/projet10)
+[Lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet10)
 
