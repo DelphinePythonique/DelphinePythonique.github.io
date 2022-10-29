@@ -11,9 +11,9 @@ Le projet a pour objectif de développer une application permettant à des inter
 sur des livres
 ## <i class="medium material-icons">view_list</i> Fonctionnalités
 
-- Demander un avis sur un livre
-- Donner un avis sur un livre
-- Commenter les avis 
+- <i class="tiny material-icons">done</i> Demander un avis sur un livre
+- <i class="tiny material-icons">done</i> Donner un avis sur un livre
+- <i class="tiny material-icons">done</i> Commenter les avis 
 
 <img class="materialboxed" width="100%"  src="images/application-de-critiques-de-livres.gif">
 

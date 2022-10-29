@@ -10,11 +10,11 @@ Le projet a pour objectif de développer une api de gestion d'incidents.
 
 ## <i class="medium material-icons">view_list</i> Fonctionnalités
 
-- l'api est accessible uniquement à une personne **authentifiée**.
-- créer un projet
-- associer des personnes à un projet.
-- créer et lier des incidents à un projet en étant un membre de l'équipe
-- Commenter un incident en étant membre de l'équipe.
+- <i class="tiny material-icons">done</i> l'api est accessible uniquement à une personne **authentifiée**.
+- <i class="tiny material-icons">done</i> créer un projet
+- <i class="tiny material-icons">done</i> associer des personnes à un projet.
+- <i class="tiny material-icons">done</i> créer et lier des incidents à un projet en étant un membre de l'équipe
+- <i class="tiny material-icons">done</i> Commenter un incident en étant membre de l'équipe.
 
 
 ## <i class="medium material-icons">school</i> Compétences évaluées

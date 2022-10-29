@@ -10,11 +10,11 @@ Le projet a pour objectif de développer une application à destination des orga
 
 ## <i class="medium material-icons">view_list</i> Fonctionnalités
 
- - Gérer un **carnet d'adresse** de joueur
- - Gérer des **tournois** comprenant un nombre de **tour** paramétrable, durant lequel les joueurs inscrits au tournoi 
+ - <i class="tiny material-icons">done</i> Gérer un **carnet d'adresse** de joueur
+ - <i class="tiny material-icons">done</i> Gérer des **tournois** comprenant un nombre de **tour** paramétrable, durant lequel les joueurs inscrits au tournoi 
 seront associés en fonction de différents critères pour jouer un **match**. 
 Il sera alors possible de mémoriser le résultat des matchs. 
- - Différents rapports seront fournis
+ - <i class="tiny material-icons">done</i> Différents rapports seront fournis
 
 <img class="materialboxed" width="100%" src="images/application-de-gestion-de-tournois-d-echec.gif">
 

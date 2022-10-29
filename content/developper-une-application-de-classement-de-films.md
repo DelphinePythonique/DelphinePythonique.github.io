@@ -10,11 +10,11 @@ Le projet a pour objectif de développer une application de classement de films 
 
 ## <i class="medium material-icons">view_list</i> Fonctionnalités
 
- - Afficher le meilleur film
- - Afficher les meilleurs films
- - Afficher les films d'une catégorie N°1
- - Afficher les films d'une catégorie N°2
- - Afficher les films d'une catégorie N°2
+ - <i class="tiny material-icons">done</i> Afficher le meilleur film
+ - <i class="tiny material-icons">done</i> Afficher les meilleurs films
+ - <i class="tiny material-icons">done</i> Afficher les films d'une catégorie N°1
+ - <i class="tiny material-icons">done</i> Afficher les films d'une catégorie N°2
+ - <i class="tiny material-icons">done</i> Afficher les films d'une catégorie N°2
 
  <img class="materialboxed" width="100%" src="images/application-de-classement-de-films.gif">
 
