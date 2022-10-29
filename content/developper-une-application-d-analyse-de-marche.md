@@ -4,16 +4,16 @@ Category: Certification Développeur Python
 tags: scrapping, DOM, Beautiful Soup, request, python
 summary: Ce projet a pour objectif de récupérer des informations présentes sur un site web de type catalogue de livres.
 
-## Présentation du projet
+## <i class="medium material-icons">assignment</i> Présentation du projet
 
 Ce projet a pour objectif de récupérer des informations présentes sur un site web de type catalogue de livres.
 
-## Compétences évaluées
+## <i class="medium material-icons">school</i> Compétences évaluées
 - Configurer un environnement Python
 - Appliquer les bases de la programmation en Python
 - Utiliser le contrôle de version avec Git et GitHub
 - Gérer les données à l'aide du processus ETL
 
-## Dépôt du programme
-[Lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet2)
+## <i class="medium material-icons">folder</i>  Dépôt du programme
+[Lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet2)
 

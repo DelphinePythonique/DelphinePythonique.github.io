@@ -5,11 +5,11 @@ tags: front, api, django, python, materializecss, scss
 summary: Le projet a pour objectif de développer une application permettant à des internautes de donner ou solliciter des avis 
 sur des livres
 
-## Présentation du projet
+## <i class="medium material-icons">assignment</i> Présentation du projet
 
 Le projet a pour objectif de développer une application permettant à des internautes de donner ou solliciter des avis 
 sur des livres
-## Fonctionnalités
+## <i class="medium material-icons">view_list</i> Fonctionnalités
 
 - Demander un avis sur un livre
 - Donner un avis sur un livre
@@ -17,11 +17,11 @@ sur des livres
 
 ![image](images/application-de-critiques-de-livres.gif)
 
-## Compétences évaluées
+## <i class="medium material-icons">school</i> Compétences évaluées
 
 - Développer une application web en utilisant Django
 - Utiliser le rendu côté serveur dans Django
 
-## Dépôt du programme
-[lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet9)
+## <i class="medium material-icons">folder</i> Dépôt du programme
+[lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet9)
 

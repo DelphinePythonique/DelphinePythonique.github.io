@@ -4,11 +4,11 @@ Category: Certification Développeur Python
 tags: asynchrone, scss, front, vanilla javascript, python, materializecss, scss
 summary: Le projet a pour objectif de développer une application de classement de films alimentés au travers d'une api.
 
-## Présentation du projet
+## <i class="medium material-icons">assignment</i> Présentation du projet
 
 Le projet a pour objectif de développer une application de classement de films alimentés au travers d'une api.
 
-## Fonctionnalités
+## <i class="medium material-icons">view_list</i> Fonctionnalités
 
  - Afficher le meilleur film
  - Afficher les meilleurs films
@@ -18,11 +18,11 @@ Le projet a pour objectif de développer une application de classement de films 
 
 ![image](images/application-de-classement-de-films.gif)
 
-# Compétences évaluées
+# <i class="medium material-icons">school</i> Compétences évaluées
 
 - Développer la partie Front-End d’une application avec HTML, CSS et JavaScript
 - Interagir avec une API REST
 
-# Dépôt du programme
-[lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet6)
+# <i class="medium material-icons">folder</i>  Dépôt du programme
+[lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet6)
 

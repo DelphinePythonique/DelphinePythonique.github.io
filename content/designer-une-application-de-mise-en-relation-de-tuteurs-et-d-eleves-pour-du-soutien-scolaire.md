@@ -5,17 +5,17 @@ tags: design, maquette, cas d'usage,
 summary: A partir d'une liste de fonctionnalités en lien avec la mise en relation de tuteur et d'élève et des activités 
 de formation, décliner les livrables décrivant le projet; cas d'usage, maquettes
 
-## Présentation du projet
+## <i class="medium material-icons">assignment</i> Présentation du projet
 
 A partir d'une liste de fonctionnalités en lien avec la mise en relation de tuteur et d'élève et des activités 
 de formation, décliner les livrables décrivant le projet; cas d'usage, maquettes
 
-## Compétences évaluées
+## <i class="medium material-icons">school</i> Compétences évaluées
 
 - Gérer un projet avec les méthodologies agiles
 - Définir les exigences fonctionnelles de l’application à partir du besoin client
 - Prototyper une solution technique pour un client avec les modèles de domaine et maquettes
 
-## Dépôt du programme
+## <i class="medium material-icons">folder</i> Dépôt du programme
 Les livrables pourront être consultés lors d'un entretien visio ou présentiel. 
 

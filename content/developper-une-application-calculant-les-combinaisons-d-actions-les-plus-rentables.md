@@ -5,15 +5,15 @@ tags: algorithme, complexité, python
 summary: À partir d'un fichier texte contenant une liste d'actions ayant un coût et une rentabilité, créer un programme 
 extrayant les combinaisons d'actions à acheter permettant le meilleur rendement pour un coût total défini.
 
-## Présentation du projet
+## <i class="medium material-icons">assignment</i> Présentation du projet
 
 À partir d'un fichier texte contenant une liste d'actions ayant un coût et une rentabilité, créer un programme 
 extrayant les combinaisons d'actions à acheter permettant le meilleur rendement pour un coût total défini.
 
-## Compétences évaluées
+## <i class="medium material-icons">school</i> Compétences évaluées
 - Déconstruire un problème
 - Développer un algorithme pour résoudre un problème
 
-## Dépôt du programme
-[Lien vers le dépôt de ce projet](https://github.com/DelphinePythonique/projet7)
+## <i class="medium material-icons">folder</i> Dépôt du programme
+[Lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet7)
 
