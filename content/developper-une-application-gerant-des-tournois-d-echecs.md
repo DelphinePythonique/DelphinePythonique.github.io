@@ -16,7 +16,7 @@ seront associés en fonction de différents critères pour jouer un **match**.
 Il sera alors possible de mémoriser le résultat des matchs. 
  - Différents rapports seront fournis
 
-![image](images/application-de-gestion-de-tournois-d-echec.gif)
+<img class="materialboxed" width="650" src="images/application-de-gestion-de-tournois-d-echec.gif">
 
 ## <i class="medium material-icons">school</i> Compétences évaluées
 

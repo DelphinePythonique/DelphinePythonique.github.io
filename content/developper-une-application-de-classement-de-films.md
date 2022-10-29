@@ -16,7 +16,7 @@ Le projet a pour objectif de développer une application de classement de films 
  - Afficher les films d'une catégorie N°2
  - Afficher les films d'une catégorie N°2
 
-![image](images/application-de-classement-de-films.gif)
+ <img class="materialboxed" width="650" src="images/application-de-classement-de-films.gif">
 
 # <i class="medium material-icons">school</i> Compétences évaluées
 
