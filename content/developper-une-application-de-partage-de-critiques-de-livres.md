@@ -15,7 +15,7 @@ sur des livres
 - Donner un avis sur un livre
 - Commenter les avis 
 
-<img class="materialboxed" width="650" src="images/application-de-critiques-de-livres.gif">
+<img class="materialboxed" width="100%"  src="images/application-de-critiques-de-livres.gif">
 
 ## <i class="medium material-icons">school</i> Compétences évaluées
 
