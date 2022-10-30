@@ -3,6 +3,7 @@ AUTHOR_FUNCTION = 'Développeuse et intégratrice de solutions python'
 CV_URL = "images/CV.pdf"
 CV_DETAIL_URL = "images/CV_DETAIL.pdf"
 SITENAME = 'DelphinePythonique'
+SITESUBTITLE ="(accueil)"
 SITEURL = ''
 
 PATH = 'content'

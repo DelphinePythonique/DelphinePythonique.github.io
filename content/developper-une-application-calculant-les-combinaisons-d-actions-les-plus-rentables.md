@@ -1,4 +1,4 @@
-Title: Usage de python pour une analyse de marché
+Title: Développer une application calculant les combinaisons d'action les plus rentables
 Date: 2022-09-06 10:20
 Category: Certification Développeur Python
 tags: algorithme, complexité, python
