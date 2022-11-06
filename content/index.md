@@ -60,7 +60,7 @@ Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplôm
     </li>
   </ul>
 
-Ci-dessous une liste des projets réalisées au cours de ma vie professionnelle:
+Ci-dessous une liste des projets réalisés au cours de ma vie professionnelle:
 <ul class="collection">
     <li class="collection-item avatar">
       <i class="material-icons circle grey">image_aspect_ratio</i>
