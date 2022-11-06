@@ -18,8 +18,8 @@ sur des livres
 
 ## <i class="medium material-icons">school</i> Compétences évaluées
 
-- Développer une application web en utilisant Django
-- Utiliser le rendu côté serveur dans Django
+- <i class="tiny material-icons">done</i> Développer une application web en utilisant Django
+- <i class="tiny material-icons">done</i> Utiliser le rendu côté serveur dans Django
 
 ## <i class="medium material-icons">folder</i> Dépôt du programme
 [lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet9)

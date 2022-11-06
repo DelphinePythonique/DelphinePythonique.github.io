@@ -19,9 +19,9 @@ Le projet a pour objectif de développer une api de gestion d'incidents.
 
 ## <i class="medium material-icons">school</i> Compétences évaluées
 
-- Créer une API RESTful avec Django REST
-- Sécuriser une API afin qu'elle respecte les normes OWASP et RGPD
-- Documenter une application
+- <i class="tiny material-icons">done</i> Créer une API RESTful avec Django REST
+- <i class="tiny material-icons">done</i> Sécuriser une API afin qu'elle respecte les normes OWASP et RGPD
+- <i class="tiny material-icons">done</i> Documenter une application
 
 ## <i class="medium material-icons">folder</i> Dépôt du programme
 [Lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet10)

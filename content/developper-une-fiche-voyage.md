@@ -17,8 +17,8 @@ Elle m'a missionné pour développer une solution, lui permettant de les gérer 
 
 ## <i class="medium material-icons">brightness_7</i> Compétences 
 
-- Interviews de l'assistante de direction 
-- Développer une application sous Access
+- <i class="tiny material-icons">done</i> Interviews de l'assistante de direction 
+- <i class="tiny material-icons">done</i> Développer une application sous Access
 
 ## <i class="medium material-icons">devices</i> Résultat
 

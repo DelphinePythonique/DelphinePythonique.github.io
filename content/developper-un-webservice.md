@@ -19,9 +19,9 @@ Odoo doit pouvoir communiquer avec le site e-commerce en Drupal/PHP.
 
 ## <i class="medium material-icons">brightness_7</i> Compétences 
 
-- Réflexion/Analyse du mécanisme de communication entre 2 solutions
-- Appropriation d'OpenERP/Python/Postgresql
-- Développement du webservice
+- <i class="tiny material-icons">done</i> Réflexion/Analyse du mécanisme de communication entre 2 solutions
+- <i class="tiny material-icons">done</i> Appropriation d'OpenERP/Python/Postgresql
+- <i class="tiny material-icons">done</i> Développement du webservice
 
 ## <i class="medium material-icons">devices</i> Résultat
 

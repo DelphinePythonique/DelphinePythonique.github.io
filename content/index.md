@@ -60,7 +60,7 @@ Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplôm
     </li>
   </ul>
 
-Ci-dessous une liste des projets réalisés au cours de ma vie professionnelle:
+Ci-dessous une liste des projets de développement réalisés au cours de ma vie professionnelle:
 <ul class="collection">
     <li class="collection-item avatar">
       <i class="material-icons circle grey">image_aspect_ratio</i>
@@ -82,5 +82,12 @@ Ci-dessous une liste des projets réalisés au cours de ma vie professionnelle:
           <p>
           </p>
           <a class="secondary-content" href="{filename}developper-un-webservice.md"><i class="tiny material-icons">open_in_new</i></a>
+     </li>
+    <li class="collection-item avatar">
+          <i class="material-icons circle grey">share</i>
+          <span class="title"><a href="{filename}developper-un-outil-de-gestion-pour-les-elections.md">Pouvoir gérer la mise sous pli dans un context électoral </a></span>
+          <p>
+          </p>
+          <a class="secondary-content" href="{filename}developper-un-outil-de-gestion-pour-les-elections.md"><i class="tiny material-icons">open_in_new</i></a>
      </li>
 </ul>

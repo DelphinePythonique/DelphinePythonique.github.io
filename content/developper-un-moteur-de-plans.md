@@ -19,9 +19,9 @@ Dans un premier projet, j'avais travaillé à la refonte des devis en développa
 
 ## <i class="medium material-icons">brightness_7</i> Compétences 
 
-- Réflexion/Analyse: compréhension du sujet "aménagement d'un véhicule, conceptualisation de l'aménagement
-- Interviews: des acteurs de terrain; bureau d'étude pour les principes d'aménagement, le marketing et commerce pour la validation de la méthode
-- Appropriation d'Excel : formule et VBA
+- <i class="tiny material-icons">done</i> Réflexion/Analyse: compréhension du sujet "aménagement d'un véhicule, conceptualisation de l'aménagement
+- <i class="tiny material-icons">done</i> Interviews: des acteurs de terrain; bureau d'étude pour les principes d'aménagement, le marketing et commerce pour la validation de la méthode
+- <i class="tiny material-icons">done</i> Appropriation d'Excel : formule et VBA
 
 ## <i class="medium material-icons">devices</i> Résultat
 

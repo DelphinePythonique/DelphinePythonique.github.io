@@ -11,9 +11,9 @@ de formation, décliner les livrables décrivant le projet; cas d'usage, maquett
 
 ## <i class="medium material-icons">school</i> Compétences évaluées
 
-- Gérer un projet avec les méthodologies agiles
-- Définir les exigences fonctionnelles de l’application à partir du besoin client
-- Prototyper une solution technique pour un client avec les modèles de domaine et maquettes
+- <i class="tiny material-icons">done</i> Gérer un projet avec les méthodologies agiles
+- <i class="tiny material-icons">done</i> Définir les exigences fonctionnelles de l’application à partir du besoin client
+- <i class="tiny material-icons">done</i> Prototyper une solution technique pour un client avec les modèles de domaine et maquettes
 
 ## <i class="medium material-icons">folder</i> Dépôt du programme
 Les livrables pourront être consultés lors d'un entretien visio ou présentiel. 

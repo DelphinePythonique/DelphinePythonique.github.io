@@ -10,8 +10,8 @@ summary: À partir d'un fichier texte contenant une liste d'actions ayant un co�
 extrayant les combinaisons d'actions à acheter permettant le meilleur rendement pour un coût total défini.
 
 ## <i class="medium material-icons">school</i> Compétences évaluées
-- Déconstruire un problème
-- Développer un algorithme pour résoudre un problème
+- <i class="tiny material-icons">done</i> Déconstruire un problème
+- <i class="tiny material-icons">done</i> Développer un algorithme pour résoudre un problème
 
 ## <i class="medium material-icons">folder</i> Dépôt du programme
 [Lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet7)

@@ -20,8 +20,8 @@ Le projet a pour objectif de développer une application de classement de films 
 
 # <i class="medium material-icons">school</i> Compétences évaluées
 
-- Développer la partie Front-End d’une application avec HTML, CSS et JavaScript
-- Interagir avec une API REST
+- <i class="tiny material-icons">done</i> Développer la partie Front-End d’une application avec HTML, CSS et JavaScript
+- <i class="tiny material-icons">done</i> Interagir avec une API REST
 
 # <i class="medium material-icons">folder</i>  Dépôt du programme
 [lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet6)

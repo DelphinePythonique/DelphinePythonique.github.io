@@ -20,9 +20,9 @@ Il sera alors possible de mémoriser le résultat des matchs.
 
 ## <i class="medium material-icons">school</i> Compétences évaluées
 
-- Utiliser la programmation orientée objet pour développer un programme Python
-- Écrire un code Python robuste en utilisant la PEP 8
-- Structurer le code d'un programme Python en utilisant un design pattern
+- <i class="tiny material-icons">done</i> Utiliser la programmation orientée objet pour développer un programme Python
+- <i class="tiny material-icons">done</i> Écrire un code Python robuste en utilisant la PEP 8
+- <i class="tiny material-icons">done</i> Structurer le code d'un programme Python en utilisant un design pattern
 
 ## <i class="medium material-icons">folder</i> Dépôt du programme
 [lien vers le dépôt de ce projet  <i class="tiny material-icons">open_in_new</i>](https://github.com/DelphinePythonique/projet4)
