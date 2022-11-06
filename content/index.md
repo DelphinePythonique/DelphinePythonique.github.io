@@ -59,3 +59,28 @@ Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplôm
       <a class="secondary-content" href="{filename}developper-une-api-de-gestion-d-incidents.md"><i class="tiny material-icons">open_in_new</i></a>
     </li>
   </ul>
+
+Ci-dessous une liste des projets réalisées au cours de ma vie professionnelle:
+<ul class="collection">
+    <li class="collection-item avatar">
+      <i class="material-icons circle grey">image_aspect_ratio</i>
+      <span class="title"><a href="{filename}developper-un-moteur-de-plans.md">Pouvoir générer automatiquement le plan de l'aménagement d'un véhicule Renault Tech</a></span>
+      <p>
+      </p>
+      <a class="secondary-content" href="{filename}developper-un-moteur-de-plans.md"><i class="tiny material-icons">open_in_new</i></a>
+    </li>
+     <li class="collection-item avatar">
+          <i class="material-icons circle grey">flight_takeoff</i>
+          <span class="title"><a href="{filename}developper-une-fiche-voyage.md">Pouvoir gérer les voyages organisés d'une entreprise</a></span>
+          <p>
+          </p>
+          <a class="secondary-content" href="{filename}developper-une-fiche-voyage.md"><i class="tiny material-icons">open_in_new</i></a>
+     </li>
+    <li class="collection-item avatar">
+          <i class="material-icons circle grey">shopping_cart</i>
+          <span class="title"><a href="{filename}developper-un-webservice.md">Pouvoir gérer les achats réalisés via un site e-commerce inversé </a></span>
+          <p>
+          </p>
+          <a class="secondary-content" href="{filename}developper-un-webservice.md"><i class="tiny material-icons">open_in_new</i></a>
+     </li>
+</ul>
