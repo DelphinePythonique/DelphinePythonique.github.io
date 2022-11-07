@@ -3,12 +3,39 @@ Date: 2022-09-06 10:20
 Category: Accueil
 URL: index.html
 save_as: index.html
-
+  
+  <div class="row">
+    <div class="col s12 m4">
+        <a href="#list_projets_formation">
+          <div class="card-panel grey">
+            <span class="white-text">
+    Projets réalisés au cours de ma formation développeur Python<br>
+            </span>
+          </div>
+        </a>
+    </div>
+     <div class="col s12 m4">
+        <a href="#list_projets_pros">
+          <div class="card-panel grey">
+            <span class="white-text">Projets réalisés dans un contexte professionnel<br><br></span>
+          </div>
+        </a>
+    </div>
+     <div class="col s12 m4">
+        <a href="#list_projets_animation">
+          <div class="card-panel grey">
+            <span class="white-text">Augmenter la productivité par l'animation</span>
+          </div>
+        </a>
+    </div>
+  </div>
+list_projets_animation
+<span id="list_projets_formation">
 Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplômante Openclassroom **développeur python**: 
-
+</span>
   
 <ul class="collection">
-    <li class="collection-item avatar">
+    <li  class="collection-item avatar">
       <i class="material-icons circle grey">find_in_page</i>
       <span class="title"><a href="{filename}developper-une-application-d-analyse-de-marche.md">Développer une application d'analyse de marché</a></span>
       <p>
@@ -60,7 +87,7 @@ Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplôm
     </li>
   </ul>
 
-Ci-dessous une liste des projets de développement réalisés au cours de ma vie professionnelle:
+<span id="list_projets_pros">Ci-dessous une liste de quelques projets de développement réalisés au cours de ma vie professionnelle:</span>
 <ul class="collection">
     <li class="collection-item avatar">
       <i class="material-icons circle grey">image_aspect_ratio</i>
@@ -90,4 +117,21 @@ Ci-dessous une liste des projets de développement réalisés au cours de ma vie
           </p>
           <a class="secondary-content" href="{filename}developper-un-outil-de-gestion-pour-les-elections.md"><i class="tiny material-icons">open_in_new</i></a>
      </li>
+    <li class="collection-item avatar">
+          <i class="material-icons circle grey">share</i>
+          <span class="title"><a href="{filename}developper-des-applications-en-lien-avec-le-secteur-logistique.md">Pouvoir gérer des activités de gestion de stock</a></span>
+          <p>
+          </p>
+          <a class="secondary-content" href="{filename}developper-des-applications-en-lien-avec-le-secteur-logistique.md"><i class="tiny material-icons">open_in_new</i></a>
+     </li>
+
 </ul>
+<span id="list_projets_animation">Ci-dessous une liste des projets d'animation réalisés au cours de ma vie professionnelle et parfois personnelles:</span>
+<ul class="collection">
+    <li class="collection-item avatar">
+      <i class="material-icons circle grey">airline_seat_recline_normal</i>
+      <span class="title"><a href="{filename}animer-storytelling.md">Animer un plateau de développeur par le storytelling </a></span>
+      <p>
+      </p>
+      <a class="secondary-content" href="{filename}animer-storytelling.md"><i class="tiny material-icons">open_in_new</i></a>
+    </li>
