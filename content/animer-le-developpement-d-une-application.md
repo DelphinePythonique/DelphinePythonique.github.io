@@ -10,8 +10,9 @@ Chez Duhamel-logistique, je suis en charge du développement de l'application de
 logistique. Des membres de l'entreprise me demandent de nouvelles fonctionnalités.
 
 L'idée, ici, est de: 
-- réceptionner les nouvelles demandes de développement. 
-- communiquer sur ces nouvelles fonctionnalités afin que chacun puisse en avoir pleinement l'usage.
+
+ - réceptionner les nouvelles demandes de développement. 
+ - communiquer sur ces nouvelles fonctionnalités afin que chacun puisse en avoir pleinement l'usage.
 
 
 ## <i class="medium material-icons">view_list</i> Problématiques
