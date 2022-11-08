@@ -27,7 +27,7 @@ afin de faciliter les recettes et les arbitrages concernant les fonctionnalités
 - <i class="tiny material-icons">done</i> Analyser le code de l'application en Django/python
 - <i class="tiny material-icons">done</i> Rédiger la documentation
 
-## <i class="medium material-icons">airline_seat_recline_normal</i> Résultat
+## <i class="medium material-icons">book</i> Résultat
 
 Documentation technico-fonctionnelle composée de chapitres décrivant les usages en lien avec les différents métiers abordés.
 

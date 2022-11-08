@@ -31,7 +31,7 @@ entre l'entreprise et d'éventuels partenaires et/ou clients; en proposant des m
  - <i class="tiny material-icons">done</i> Faire venir des personnes externes à l'entreprise, en tant qu'auditeur
  - <i class="tiny material-icons">done</i> Faire venir des personnes externes à l'entreprise, en tant que présentateur
 
-## <i class="medium material-icons">school</i> Résultat
+## <i class="medium material-icons">people</i> Résultat
 
 séances de 45 minutes sur des sujets variés
 https://blog.anybox.fr/anycine-demandez-le-programme/

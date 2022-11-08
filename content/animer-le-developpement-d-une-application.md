@@ -26,7 +26,7 @@ des développements.
 - <i class="tiny material-icons">done</i> Mise en place d'un processus de reception des demandes
 - <i class="tiny material-icons">done</i> Mise en place d'un blog interne dédié à l'outil de gestion
 - 
-## <i class="medium material-icons">airline_seat_recline_normal</i> Résultat
+## <i class="medium material-icons">explore</i> Résultat
 
 - processus de reception des demandes entrantes
 - communication sur les nouvelles fonctionnalités

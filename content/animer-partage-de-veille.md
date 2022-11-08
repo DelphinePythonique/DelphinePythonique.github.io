@@ -25,6 +25,6 @@ nous avons dû mettre en place un processus
 - <i class="tiny material-icons">done</i> Animer le processus de collecte
 - <i class="tiny material-icons">done</i> Rédiger les articles
 
-## <i class="medium material-icons">airline_seat_recline_normal</i> Résultat
+## <i class="medium material-icons">book</i> Résultat
 Articles de blog, visible ici: https://blog.anybox.fr/tag/moment_tech/
 

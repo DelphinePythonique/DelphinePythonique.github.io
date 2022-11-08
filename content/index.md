@@ -126,7 +126,7 @@ Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplôm
      </li>
 
 </ul>
-<span id="list_projets_animation">Ci-dessous une liste des projets d'animation réalisés au cours de ma vie professionnelle et parfois personnelles:</span>
+<span id="list_projets_animation">Ci-dessous une liste des projets d'animation réalisés au cours de ma vie professionnelle:</span>
 <ul class="collection">
     <li class="collection-item avatar">
       <i class="material-icons circle grey">airline_seat_recline_normal</i>
@@ -136,28 +136,28 @@ Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplôm
       <a class="secondary-content" href="{filename}animer-storytelling.md"><i class="tiny material-icons">open_in_new</i></a>
     </li>
         <li class="collection-item avatar">
-      <i class="material-icons circle grey">airline_seat_recline_normal</i>
-      <span class="title"><a href="{filename}animer-documentation.md">Animer par la documentation </a></span>
+      <i class="material-icons circle grey">book</i>
+      <span class="title"><a href="{filename}animer-documentation.md">Animer par la documentation</a></span>
       <p>
       </p>
       <a class="secondary-content" href="{filename}animer-documentation.md"><i class="tiny material-icons">open_in_new</i></a>
     </li>
     <li class="collection-item avatar">
-      <i class="material-icons circle grey">airline_seat_recline_normal</i>
+      <i class="material-icons circle grey">people</i>
       <span class="title"><a href="{filename}animer-partage-de-connaissance.md">Animer par le partage de connaissance </a></span>
       <p>
       </p>
       <a class="secondary-content" href="{filename}animer-partage-de-connaissance.md"><i class="tiny material-icons">open_in_new</i></a>
     </li>
     <li class="collection-item avatar">
-      <i class="material-icons circle grey">airline_seat_recline_normal</i>
+      <i class="material-icons circle grey">book</i>
       <span class="title"><a href="{filename}animer-partage-de-veille.md">Animer un partage de veille </a></span>
       <p>
       </p>
       <a class="secondary-content" href="{filename}animer-partage-de-veille.md"><i class="tiny material-icons">open_in_new</i></a>
     </li>
     <li class="collection-item avatar">
-      <i class="material-icons circle grey">airline_seat_recline_normal</i>
+      <i class="material-icons circle grey">explore</i>
       <span class="title"><a href="{filename}animer-le-developpement-d-une-application.md">Animer le développement d'une application </a></span>
       <p>
       </p>
