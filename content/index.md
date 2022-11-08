@@ -135,3 +135,19 @@ Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplôm
       </p>
       <a class="secondary-content" href="{filename}animer-storytelling.md"><i class="tiny material-icons">open_in_new</i></a>
     </li>
+        <li class="collection-item avatar">
+      <i class="material-icons circle grey">airline_seat_recline_normal</i>
+      <span class="title"><a href="{filename}animer-documentation.md">Animer par la documentation </a></span>
+      <p>
+      </p>
+      <a class="secondary-content" href="{filename}animer-documentation.md"><i class="tiny material-icons">open_in_new</i></a>
+    </li>
+    <li class="collection-item avatar">
+      <i class="material-icons circle grey">airline_seat_recline_normal</i>
+      <span class="title"><a href="{filename}animer-partage-de-connaissance.md">Animer par le partage de connaissance </a></span>
+      <p>
+      </p>
+      <a class="secondary-content" href="{filename}animer-partage-de-connaissance.md"><i class="tiny material-icons">open_in_new</i></a>
+    </li>
+</ul>
+

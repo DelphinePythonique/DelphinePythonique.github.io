@@ -24,7 +24,8 @@ afin de faciliter les recettes et les arbitrages concernant les fonctionnalités
 ## <i class="medium material-icons">brightness_7</i> Compétences 
 
 - <i class="tiny material-icons">done</i> Comprendre, Analyser le secteur des mutuelles; actuariat, agent mutualiste
-- <i class="tiny material-icons">done</i> Comprendre, Analyser le secteur des mutuelles; actuariat, agent mutualiste
+- <i class="tiny material-icons">done</i> Analyser le code de l'application en Django/python
+- <i class="tiny material-icons">done</i> Rédiger la documentation
 
 ## <i class="medium material-icons">airline_seat_recline_normal</i> Résultat
 
