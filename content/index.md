@@ -29,9 +29,15 @@ save_as: index.html
         </a>
     </div>
   </div>
-list_projets_animation
 <span id="list_projets_formation">
-Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplômante Openclassroom **développeur python**: 
+Ci-dessous la liste des projets réalisés dans la cadre de ma formation diplômante Openclassroom **développeur python**. 
+
+J'attire votre attention sur le fait que ces projets suivent un parcours pédagogique.  
+Chacun d'entre eux traite un aspect technique précis. 
+
+Les pratiques de développement, telles que le respect d'un linter, les instructions de pré-commit, ont été appréhendées au cours du parcours et sont donc absentes dans les premiers projets.
+
+Les tests font, eux aussi, l'objet de projets dédiés et ne sont pas forcément présents dans les projets dont l'intérêt pédagogique est autre. 
 </span>
   
 <ul class="collection">
