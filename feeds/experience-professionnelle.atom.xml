@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DelphinePythonique - Experience professionnelle</title><link href="https://delphinepythonique.github.io/" rel="alternate"></link><link href="https://delphinepythonique.github.io/feeds/experience-professionnelle.atom.xml" rel="self"></link><id>https://delphinepythonique.github.io/</id><updated>2022-11-05T17:21:00+01:00</updated><subtitle>(accueil)</subtitle><entry><title>Gérer les voyages organisés d'une entreprise</title><link href="https://delphinepythonique.github.io/gerer-les-voyages-organises-dune-entreprise.html" rel="alternate"></link><published>2022-11-05T17:21:00+01:00</published><updated>2022-11-05T17:21:00+01:00</updated><author><name>DelphinePythonique</name></author><id>tag:delphinepythonique.github.io,2022-11-05:/gerer-les-voyages-organises-dune-entreprise.html</id><summary type="html">&lt;p&gt;Le projet a pour objectif de gérer les voyages organisés d'une entreprise&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;i class="medium material-icons"&gt;assignment&lt;/i&gt; Présentation du projet&lt;/h2&gt;
+&lt;p&gt;Chez F.C.I., la secrétaire de direction est en charge de l'organisation des voyages des membres de la société.
+Elle m'a missionné pour développer une solution, lui permettant de les gérer et d'éditer des fiches &lt;strong&gt;&lt;em&gt;voyage&lt;/em&gt;&lt;/strong&gt; à remettre aux personnes en déplacement. &lt;/p&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;view_list&lt;/i&gt; Problématiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Comprendre l'organisation des voyages&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Développer une solution de gestion sous Access&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;brightness_7&lt;/i&gt; Compétences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Interviews de l'assistante de direction &lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Développer une application sous Access&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;devices&lt;/i&gt; Résultat&lt;/h2&gt;
+&lt;p&gt;Application de gestion de voyage sous Access&lt;/p&gt;</content><category term="Experience professionnelle"></category><category term="Access"></category><category term="vba"></category></entry><entry><title>Pouvoir générer automatiquement le plan de l'aménagement d'un véhicule Renault Tech</title><link href="https://delphinepythonique.github.io/pouvoir-generer-automatiquement-le-plan-de-lamenagement-dun-vehicule-renault-tech.html" rel="alternate"></link><published>2022-11-05T17:21:00+01:00</published><updated>2022-11-05T17:21:00+01:00</updated><author><name>DelphinePythonique</name></author><id>tag:delphinepythonique.github.io,2022-11-05:/pouvoir-generer-automatiquement-le-plan-de-lamenagement-dun-vehicule-renault-tech.html</id><summary type="html">&lt;p&gt;Le projet a pour objectif Pouvoir générer automatiquement le plan de l'aménagement d'un véhicule Renault Tech&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;i class="medium material-icons"&gt;assignment&lt;/i&gt; Présentation du projet&lt;/h2&gt;
+&lt;p&gt;Renault Tech aménage des véhicules Renault pour les personnes à mobilité réduites 
+Les services Commerce et Marketing m'ont missionnée pour faire en sorte qu'à l'émission d'un devis, le plan de
+l'aménagement du véhicule se génère automatiquement et soit joint au devis.
+Dans un premier projet, j'avais travaillé à la refonte des devis en développant un devis en &lt;strong&gt;&lt;em&gt;wlangage (Windev)&lt;/em&gt;&lt;/strong&gt;. &lt;/p&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;view_list&lt;/i&gt; Problématiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Comprendre les grands principes d'aménagement d'un véhicule&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Trouver une manière astucieuse de conceptualiser ces principes afin de pouvoir les transformer en application&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Transformer les données d'entrée fournies par le devis en plan d'aménagement d'un véhicule&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;brightness_7&lt;/i&gt; Compétences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Réflexion/Analyse: compréhension du sujet "aménagement d'un véhicule, conceptualisation de l'aménagement&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Interviews: des acteurs de terrain; bureau d'étude pour les principes d'aménagement, le marketing et commerce pour la validation de la méthode&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Appropriation d'Excel : formule et VBA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;devices&lt;/i&gt; Résultat&lt;/h2&gt;
+&lt;p&gt;Maquette de la solution sous Excel, transposable dans l'outil de gestion en place&lt;/p&gt;</content><category term="Experience professionnelle"></category><category term="maquette"></category><category term="Excel"></category><category term="vba"></category><category term="formules"></category></entry><entry><title>Pouvoir gérer des activités dans un context logistique</title><link href="https://delphinepythonique.github.io/pouvoir-gerer-des-activites-dans-un-context-logistique.html" rel="alternate"></link><published>2022-11-05T17:21:00+01:00</published><updated>2022-11-05T17:21:00+01:00</updated><author><name>DelphinePythonique</name></author><id>tag:delphinepythonique.github.io,2022-11-05:/pouvoir-gerer-des-activites-dans-un-context-logistique.html</id><summary type="html">&lt;p&gt;les projets avaient tous pour objectif de gérer des activités logistiques&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;i class="medium material-icons"&gt;assignment&lt;/i&gt; Présentation du projet&lt;/h2&gt;
+&lt;p&gt;Duhamel logistique, en tant que plateforme logistique localisée en Normandie et TCL chargé de la logistique d'un projet pétrolier. 
+m'ont missionnée pour développer et/ou étendre les fonctionnalités de leurs outils de gestion. &lt;/p&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;view_list&lt;/i&gt; Problématiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Pour Duhamel logistique, cela a été de m'approprier en 3 jours la solution Ego de la société Sitaci afin de rapidement pouvoir en étendre les fonctionnalités&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Pour TCL, cela a été de concevoir la solution de A à Z&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;brightness_7&lt;/i&gt; Compétences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Réflexion/Analyse: compréhension du secteur de la logistique et de la gestion de stock&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Interviews: des acteurs de terrain ; responsable entrepot, agent des douanes&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Appropriation de différentes stacks de développement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;share&lt;/i&gt; Résultat&lt;/h2&gt;
+&lt;p&gt;Solutions applicatives de gestion de stock&lt;/p&gt;</content><category term="Experience professionnelle"></category><category term="Delphi"></category><category term="VB6"></category><category term="Oracle 7"></category><category term="SQL Server"></category><category term="SQL"></category></entry><entry><title>Pouvoir gérer la mise sous pli dans un context électoral</title><link href="https://delphinepythonique.github.io/pouvoir-gerer-la-mise-sous-pli-dans-un-context-electoral.html" rel="alternate"></link><published>2022-11-05T17:21:00+01:00</published><updated>2022-11-05T17:21:00+01:00</updated><author><name>DelphinePythonique</name></author><id>tag:delphinepythonique.github.io,2022-11-05:/pouvoir-gerer-la-mise-sous-pli-dans-un-context-electoral.html</id><summary type="html">&lt;p&gt;Le projet a pour objectif de pouvoir gérer la mise sous pli dans un context électoral&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;i class="medium material-icons"&gt;assignment&lt;/i&gt; Présentation du projet&lt;/h2&gt;
+&lt;p&gt;En activité secondaire, Duhamel Logistique, avait une activité en lien avec la mise sous pli dans un context électoral. &lt;/p&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;view_list&lt;/i&gt; Problématiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Synchronisation/organisation avec les donneurs d'ordre&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Récupérer/traiter les fichiers électeurs en provenance de plusieurs sources&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Editer les étiquettes contenant l'adresse de livraison des colis à envoyer&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; le timing très serré et non modifiable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;brightness_7&lt;/i&gt; Compétences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Organisation: mise en place d'un processus de récupération de fichiers électeurs&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Développement d'un outil de traitement des fichiers électeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;devices&lt;/i&gt; Résultat&lt;/h2&gt;
+&lt;p&gt;Outil de traitement des fichiers électeurs&lt;/p&gt;</content><category term="Experience professionnelle"></category><category term="Delphi"></category><category term="Oracle 7"></category></entry><entry><title>Pouvoir gérer les achats réalisés via un site e-commerce inversé</title><link href="https://delphinepythonique.github.io/pouvoir-gerer-les-achats-realises-via-un-site-e-commerce-inverse.html" rel="alternate"></link><published>2022-11-05T17:21:00+01:00</published><updated>2022-11-05T17:21:00+01:00</updated><author><name>DelphinePythonique</name></author><id>tag:delphinepythonique.github.io,2022-11-05:/pouvoir-gerer-les-achats-realises-via-un-site-e-commerce-inverse.html</id><summary type="html">&lt;p&gt;Le projet a pour objectif de pouvoir gérer les achats réalisés via un site e-commerce inversé&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;i class="medium material-icons"&gt;assignment&lt;/i&gt; Présentation du projet&lt;/h2&gt;
+&lt;p&gt;Magic Recycle a une activité de rachat des smartphones. Chaque détenteur d'un smartphone le propose via le site e-commerce inversé.
+Le smartphone est alors réceptionné, testé, racheté ou non. De nombreuses activités sont nécessaires.
+Magic Recycle doit pouvoir les gérer et à opter pour la solution OpenSource Odoo dont il devra étendre les fonctionnalités.
+Odoo doit pouvoir communiquer avec le site e-commerce en Drupal/PHP. &lt;/p&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;view_list&lt;/i&gt; Problématiques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Rédiger un contrat de webservices (API) entre Drupal et OpenERP&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Apprendre le fonctionnement d'OpenERP/Python/Postgresql&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Développer le webservice côté OpenERP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;brightness_7&lt;/i&gt; Compétences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Réflexion/Analyse du mécanisme de communication entre 2 solutions&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Appropriation d'OpenERP/Python/Postgresql&lt;/li&gt;
+&lt;li&gt;&lt;i class="tiny material-icons"&gt;done&lt;/i&gt; Développement du webservice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;i class="medium material-icons"&gt;devices&lt;/i&gt; Résultat&lt;/h2&gt;
+&lt;p&gt;Webservice, permettant la récupération des rachats passés via le site e-commerce par la solution de gestion OpenERP &lt;/p&gt;</content><category term="Experience professionnelle"></category><category term="python"></category><category term="OpenERP"></category><category term="Odoo"></category><category term="Drupal"></category><category term="php"></category></entry></feed>
