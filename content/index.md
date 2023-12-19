@@ -3,7 +3,12 @@ Date: 2022-09-06 10:20
 Category: Accueil
 URL: index.html
 save_as: index.html
-  
+
+  <div class="row">
+      <div class="col s12 m12">
+           <img class="materialboxed" width="100%" src="images/portfolio.png">
+      </div>
+  </div>
   <div class="row">
     <div class="col s12 m4">
         <a href="#list_projets_formation">
