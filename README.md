@@ -36,5 +36,20 @@ Ces sources utilisent l'outil de création de site statique [Pelican](https://do
 
 ### Actualiser les curriculum vitae
 
-Dans le répertoire *content/images*, envoyer les curriculum vitae en respectant *CV.pdf* pour le curriculum vitae sous forme de tableau et *CV_DETAIL.pdf* pour le curriculum vitae détaillé
+Dans le répertoire **content/images**, envoyer les curriculum vitae en respectant **CV.pdf** pour le curriculum vitae sous forme de tableau et **CV_DETAIL.pdf** pour le curriculum vitae détaillé
+
+### Ajouter un projet
+
+- créer un nouveau fichier avec l'extension **md** dans le répertoire **content**.
+- Le fichier doit contenir les éléments suivants: 
+    - Title: titre du projet
+    - Date: date au format : 2022-11-05 17:21 
+    - Category: catégorie du projet dans la liste:
+            - Animation: projet pour lequel mon rôle principal a été son animation.
+            - Experience professionnelle: projet en lien avec une expérience professionnelle
+            - Certification Développeur Python: projet réalisé durant ma formation [**Développeur d'application python**](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python) chez Openclassrooms. 
+    - tags: mots clés qualifiants le projet
+    - summary: résumé du projet
+      
+
 
