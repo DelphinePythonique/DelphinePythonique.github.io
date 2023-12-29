@@ -1,4 +1,4 @@
-# Source du portfolio de Delphine Lemire
+# Sources du portfolio de Delphine Lemire
 
 [Auteur: Delphine Lemire](https://www.linkedin.com/in/delphine-lemire/)
 
