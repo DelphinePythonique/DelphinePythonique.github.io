@@ -39,8 +39,7 @@ Ces sources utilisent l'outil de création de site statique [Pelican](https://do
 Dans le répertoire **content/images**, envoyer les curriculum vitae en respectant **CV.pdf** pour le curriculum vitae sous forme de tableau et **CV_DETAIL.pdf** pour le curriculum vitae détaillé
 
 ### Ajouter un projet
-
-#### Création du fichier
+#### Création du fichier
 
 - créer un nouveau fichier avec l'extension **md** dans le répertoire **content**, en s'aidant des autres fichiers contenus dans ce répertoire.
 - Le fichier doit contenir au minimum les éléments suivants: 
