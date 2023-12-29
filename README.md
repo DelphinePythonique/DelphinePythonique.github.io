@@ -21,7 +21,7 @@ Ce portefolio reprend les différents projets sur lesquels je suis intervenu en 
 #### Liste de mes projets
 Un clic sur un titre de projet, affiche la fiche de ce projet
 
-#### fiche projet
+#### Fiche projet
 Une fiche projet se compose de différentes paragraphes en fonction du projet: 
 - Présentation du projet
 - Liste des fonctionnalités du projet
