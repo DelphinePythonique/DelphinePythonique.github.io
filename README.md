@@ -30,4 +30,4 @@ Une fiche projet se compose de différentes paragraphes en fonction du projet:
 
 ## Outil utilisé
 
-Ces sources utilisent l'outil de création de site statique [Pelican]([https://www.linkedin.com/in/delphine-lemire/](https://docs.getpelican.com/en/latest/)https://docs.getpelican.com/en/latest/)
+Ces sources utilisent l'outil de création de site statique [Pelican]([https://www.linkedin.com/in/delphine-lemire/](https://docs.getpelican.com/en/latest/)https://docs.getpelican.com/en/latest/).
