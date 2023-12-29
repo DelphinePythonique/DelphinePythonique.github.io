@@ -31,3 +31,10 @@ Une fiche projet se compose de différentes paragraphes en fonction du projet:
 ## Outil utilisé
 
 Ces sources utilisent l'outil de création de site statique [Pelican](https://docs.getpelican.com/en/latest/).
+
+## Utilisation
+
+### Actualiser les curriculum vitae
+
+Dans le répertoire *content/images*, envoyer les curriculum vitae en respectant *CV.pdf* pour le curriculum vitae sous forme de tableau et *CV_DETAIL.pdf* pour le curriculum vitae détaillé
+
