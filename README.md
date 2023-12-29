@@ -40,14 +40,14 @@ Dans le répertoire **content/images**, envoyer les curriculum vitae en respecta
 
 ### Ajouter un projet
 
-- créer un nouveau fichier avec l'extension **md** dans le répertoire **content**.
-- Le fichier doit contenir les éléments suivants: 
+- créer un nouveau fichier avec l'extension **md** dans le répertoire **content**, en s'aidant des autres fichiers contenus dans ce répertoire.
+- Le fichier doit contenir au minimum les éléments suivants: 
     - Title: titre du projet
     - Date: date au format : 2022-11-05 17:21 
     - Category: catégorie du projet dans la liste:
-            - Animation: projet pour lequel mon rôle principal a été son animation.
-            - Experience professionnelle: projet en lien avec une expérience professionnelle
-            - Certification Développeur Python: projet réalisé durant ma formation [**Développeur d'application python**](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python) chez Openclassrooms. 
+      - **Animation**: projet pour lequel mon rôle principal a été son animation.
+      - **Experience professionnelle**: projet en lien avec une expérience professionnelle
+      - **Certification Développeur Python**: projet réalisé durant ma formation [**Développeur d'application python**](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python) chez Openclassrooms. 
     - tags: mots clés qualifiants le projet
     - summary: résumé du projet
       
