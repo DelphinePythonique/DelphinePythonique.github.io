@@ -40,6 +40,8 @@ Dans le répertoire **content/images**, envoyer les curriculum vitae en respecta
 
 ### Ajouter un projet
 
+#### Création du fichier
+
 - créer un nouveau fichier avec l'extension **md** dans le répertoire **content**, en s'aidant des autres fichiers contenus dans ce répertoire.
 - Le fichier doit contenir au minimum les éléments suivants: 
     - Title: titre du projet
@@ -50,6 +52,4 @@ Dans le répertoire **content/images**, envoyer les curriculum vitae en respecta
       - **Certification Développeur Python**: projet réalisé durant ma formation [**Développeur d'application python**](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python) chez Openclassrooms. 
     - tags: mots clés qualifiants le projet
     - summary: résumé du projet
-      
-
-
+ 
